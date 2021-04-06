@@ -1,5 +1,5 @@
 
-# spring_boot_mongodb
+# spring boot + mongodb
 Spring Boot + MongoDB 예제
 
 # RestController
