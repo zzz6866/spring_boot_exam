@@ -18,6 +18,7 @@ Spring Boot + MongoDB 예제
 - @ApiParam
     - 변수, 필수 여부, 테스트 예제 등을 작성할때 사용
 - 참고 : https://swagger.io/
+- ![스크린샷](docs/image1.png)
 
 # application.properties
 spring.data.mongodb.uri=mongodb://{host}:{port}/{databasename}
