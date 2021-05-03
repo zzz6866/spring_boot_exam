@@ -32,7 +32,7 @@ public class SpringfoxConfig {
                 "Side Project REST API",
                 "v1",
                 "Terms of service",
-                new Contact("zzz6866", "localhost:8080", "zzz6866@gmail.com"),
+                new Contact("No Name", "localhost:8080", "test@gmail.com"),
                 "License of API", "API license URL", Collections.emptyList());
     }
 }
