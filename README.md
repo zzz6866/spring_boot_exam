@@ -4,7 +4,7 @@
 
 ### mongodb-swagger
 - 몽고DB + Swagger UI 적용
-- REST API 코드 추가  
+- CRUD REST API 코드 추가  
 GET, POST, PUT, DELETE 등 기본 HTTP 메소드 코드 추가
 
 ### Reactor (RxJava)
